@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Filhos\\Desktop\\CURSO C#\\Starter\\Starter.csproj": {}
+    "C:\\Users\\Filhos\\Desktop\\CURSO C#\\contosopets\\Starter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Filhos\\Desktop\\CURSO C#\\Starter\\Starter.csproj": {
+    "C:\\Users\\Filhos\\Desktop\\CURSO C#\\contosopets\\Starter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Filhos\\Desktop\\CURSO C#\\Starter\\Starter.csproj",
+        "projectUniqueName": "C:\\Users\\Filhos\\Desktop\\CURSO C#\\contosopets\\Starter.csproj",
         "projectName": "Starter",
-        "projectPath": "C:\\Users\\Filhos\\Desktop\\CURSO C#\\Starter\\Starter.csproj",
+        "projectPath": "C:\\Users\\Filhos\\Desktop\\CURSO C#\\contosopets\\Starter.csproj",
         "packagesPath": "C:\\Users\\Filhos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Filhos\\Desktop\\CURSO C#\\Starter\\obj\\",
+        "outputPath": "C:\\Users\\Filhos\\Desktop\\CURSO C#\\contosopets\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Filhos\\AppData\\Roaming\\NuGet\\NuGet.Config"
